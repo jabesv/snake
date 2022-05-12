@@ -8,3 +8,6 @@ if the snake hits the walls of the square area or if it hits itself, the game is
 ### Wireframe
 link to my wireframe:
 https://wireframe.cc/BMq7IV
+
+
+The design will be inproved 
