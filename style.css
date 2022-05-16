@@ -1,1 +1,22 @@
 
+body {
+    /* background-color: black; */
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    /* box-shadow: black 20px 10px 50px; */
+    box-shadow: white 20px 10px 50px;
+}
+
+#h1 {
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
